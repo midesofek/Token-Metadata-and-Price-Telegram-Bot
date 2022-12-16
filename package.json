@@ -1,8 +1,16 @@
 {
-	"dependencies": {
-		"api": "^5.0.4",
-		"axios": "^1.2.0",
-		"dotenv": "^16.0.3",
-		"node-telegram-bot-api": "^0.58.0"
-	}
+  "dependencies": {
+    "api": "^5.0.4",
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.58.0"
+  },
+  "name": "Zetta-Telegram-Bot",
+  "version": "1.0.0",
+  "description": "A bot that generates token Metadata from the blockchain using ZettaBlock GraphQL API.",
+  "main": "index.js",
+  "repository": "https://github.com/midesofek/Token-Metadata-and-Price-Telegram-Bot.git",
+  "author": "Mide Sofek <midesofek@gmail.com>",
+  "license": "MIT",
+  "private": false
 }

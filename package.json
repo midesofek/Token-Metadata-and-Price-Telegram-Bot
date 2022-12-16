@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "description": "A bot that generates token Metadata from the blockchain using ZettaBlock GraphQL API.",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "repository": "https://github.com/midesofek/Token-Metadata-and-Price-Telegram-Bot.git",
   "author": "Mide Sofek <midesofek@gmail.com>",
